@@ -1,5 +1,8 @@
 module.exports = {
+  coreFrameworks: ['sales', 'procurement', 'marketing', 'finance', 'hr'],
+  {/* disabled for later use
   coreFrameworks: ['react', 'vue', 'angular', 'web-components'],
+  */}  
   communityFrameworks: ['ember', 'html', 'mithril', 'marko', 'svelte', 'riot', 'preact', 'rax'],
   featureGroups: [
     {
